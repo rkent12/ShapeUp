@@ -1,2 +1,2 @@
 # ShapeUp
-ryankentshapeup.netlify.app/shapeup
+https://ryankentshapeup.netlify.app/shapeup
